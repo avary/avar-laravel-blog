@@ -1,0 +1,16 @@
+* text=auto
+
+*.blade.php diff=html
+*.css diff=css
+*.html diff=html
+*.md diff=markdown
+*.php diff=php
+
+*.css linguist-detectable=false
+*.js linguist-detectable=false
+*.java linguist-detectable=false
+*.php linguist-detectable=true
+
+/.github export-ignore
+CHANGELOG.md export-ignore
+.styleci.yml export-ignore
