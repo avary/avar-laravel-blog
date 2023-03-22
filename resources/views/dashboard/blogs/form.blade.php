@@ -52,7 +52,7 @@
                   <label class="form-label font-weight-bolder">Image Url Portrait</label>
                   <input type="text" class="form-control" id="blogsImageUrlPortrait" placeholder="https://picsum.photos/300/350" value="https://picsum.photos/350/300">
                 </div>
-                <div class="col-12">1Islamway
+                <div class="col-12">
                   <hr>
                 </div>
                 <div class="col-12">
